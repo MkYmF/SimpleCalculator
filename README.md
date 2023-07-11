@@ -1,7 +1,6 @@
 # SimpleCalculator
 Simple Calculator with C# and WinForms
 
-Only For Windows
 
 How to Use:
 
