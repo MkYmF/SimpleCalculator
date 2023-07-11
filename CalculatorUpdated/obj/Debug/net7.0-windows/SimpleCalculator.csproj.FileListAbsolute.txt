@@ -1,0 +1,17 @@
+C:\Users\FRIEND\source\repos\CalculatorUpdated\bin\Debug\net7.0-windows\SimpleCalculator.exe
+C:\Users\FRIEND\source\repos\CalculatorUpdated\bin\Debug\net7.0-windows\SimpleCalculator.deps.json
+C:\Users\FRIEND\source\repos\CalculatorUpdated\bin\Debug\net7.0-windows\SimpleCalculator.runtimeconfig.json
+C:\Users\FRIEND\source\repos\CalculatorUpdated\bin\Debug\net7.0-windows\SimpleCalculator.dll
+C:\Users\FRIEND\source\repos\CalculatorUpdated\bin\Debug\net7.0-windows\SimpleCalculator.pdb
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\CalculatorUpdated.Form1.resources
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\SimpleCalculator.AssemblyInfo.cs
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\SimpleCalculator.dll
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\refint\SimpleCalculator.dll
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\SimpleCalculator.pdb
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\SimpleCalculator.genruntimeconfig.cache
+C:\Users\FRIEND\source\repos\CalculatorUpdated\obj\Debug\net7.0-windows\ref\SimpleCalculator.dll
