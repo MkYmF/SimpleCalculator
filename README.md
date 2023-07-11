@@ -1,8 +1,14 @@
 # SimpleCalculator
 Simple Calculator with C# and WinForms
 
+Only For Windows
+
 How to Use:
+
+  Clone Repository
   
+    cd Downloads && mkdir SimpleCalculator && cd SimpleCalculator && git clone https://github.com/MkYmF/SimpleCalculator.git
+
   Download "CalculatorUpdated"
   
   Unzip the File
@@ -12,4 +18,4 @@ How to Use:
     Select Open A Project or Solutions then select .sln file in CalculatorUpdated Folder
 
 That's It, Have Fun!
-Any Suggestion is Highly Apreciated.
+Any Suggestion is Highly Appreciated.
